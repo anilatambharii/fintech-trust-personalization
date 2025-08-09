@@ -1,0 +1,18 @@
+# Web framework
+flask==3.0.3
+
+# AWS SDK for Personalize and Events
+boto3==1.34.120
+
+# Data handling and preprocessing
+pandas==2.2.2
+numpy==1.26.4
+
+# For loading and cleaning Kaggle datasets
+kaggle==1.6.17
+
+# Environment variable management
+python-dotenv==1.0.1
+
+# Optional: for running API in production
+gunicorn==22.0.0
